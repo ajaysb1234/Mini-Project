@@ -1,0 +1,7 @@
+<resources>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="Speech_not_supported">Sorry ! Your Device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap Mic to Speak </string>
+    <string name="app_name">SmartCalc</string>
+    <string name="speech_not_supported" />
+</resources>
